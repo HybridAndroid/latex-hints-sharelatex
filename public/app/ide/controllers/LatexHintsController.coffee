@@ -1,4 +1,8 @@
-module.exports = [
+define [
+	"base"
+], (App) ->
+
+	define -> = [
         regexToMatch: /Too many }'s/
         extraInfoURL: ""
         humanReadableHint: """
