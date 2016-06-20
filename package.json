@@ -1,0 +1,22 @@
+{
+  "name": "latex-hints-sharelatex",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "coffee-script": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharelatex/latex-hints-sharelatex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharelatex/latex-hints-sharelatex/issues"
+  },
+  "homepage": "https://github.com/sharelatex/latex-hints-sharelatex"
+}
